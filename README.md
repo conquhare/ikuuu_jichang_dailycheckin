@@ -1,5 +1,7 @@
 # ikuuu每日签到
 
+[![Airport Checkin](https://github.com/bighammer-link/jichang_dailycheckin/actions/workflows/main.yml/badge.svg?event=check_run)](https://github.com/bighammer-link/jichang_dailycheckin/actions/workflows/main.yml)
+
 这个脚本只适合这一个机场😥😥😥😥，当时只是自己拿来用，就写个这一个机场的。我又写了一个通用的（机场只要Powered by SSPANEL就可以）请移步<a href = 'https://github.com/bighammer-link/jichang_checkin'>此处</a>
 ## 推送
   该脚本可选择采用<a href='https://sct.ftqq.com/r/5126'>server酱</a>和<a href = 'https://www.pushplus.plus/'>pushplus</a>的推送方式
